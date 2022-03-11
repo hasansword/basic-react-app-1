@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is this App?
+This is a basic react app just used components which is the one of the main features of react shows some information about react.
+
+## Screenshot of App
+<img src="./images/app-screenshot.png">
+
 ## Available Scripts
 
 In the project directory, you can run:

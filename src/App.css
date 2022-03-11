@@ -68,11 +68,3 @@ li::before{
   from {background-color: #21222a;}
   to {background-color: #282D35;}
 }
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
