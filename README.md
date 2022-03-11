@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a basic react app just used components which is the one of the main features of react shows some information about react.
 
 ## Screenshot of App
-<img src="./images/app-screenshot.png">
+<img src="./src/images/app-screenshot.png">
 
 ## Available Scripts
 
